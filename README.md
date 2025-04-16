@@ -3,6 +3,8 @@
 
 **Smart Analyzer** é uma aplicação Python com interface gráfica que automatiza o processo de análise e aprovação de Ordens de Serviço (OS), substituindo tarefas manuais demoradas por um fluxo mais rápido, preciso e eficiente.
 
+Lembrando que os dados apresentados nesse git são ficticios, para inserir esse projeto na sua empresa, me contate via linkedin!
+
 ---
 
 ## 🚀 Objetivo
